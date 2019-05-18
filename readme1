@@ -1,0 +1,3 @@
+=rand()
+hello i am testing this stuff and the code will work in php version 4.6.2. If you have higher version of PHP, you have to include file_upgrade.php for your latest version cod
+to run. THanks
